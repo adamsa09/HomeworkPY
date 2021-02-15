@@ -1,7 +1,7 @@
 import math
 
 # MATH
-print('All in one mathematics tool')
+print('All in one homework tool')
 print('Always adding new features')
 
 # Math functions ooga booga
