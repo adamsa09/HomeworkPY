@@ -224,7 +224,7 @@ try:
             exit()
     try:
         if int(mode) == 13:
-            sidelength = int(input('Sidelength: '))
+            sidelength = int(input('Sidelength'))
             print(squareArea(sidelength))
     except Exception as e:
         if '--debug' not in sys.argv:
